@@ -88,6 +88,14 @@ High: “20% bonds (AGG), 80% equities (SPY)”
 
 8. Record a video or create an animated GIF of the working bot.
 
+### SCREEN RECORDED RESULTS
+
+![Lambda with errors](https://github.com/HilaryWillis/Amazon_Lex_Bot/blob/main/Screen%20Record/Amazon%20Lex%20-%20Lambda%20errors.mp4)
+
+![Lambda working](https://github.com/HilaryWillis/Amazon_Lex_Bot/blob/main/Screen%20Record/Amazon%20Lex%20-%20Lambda%20working.mp4)
+
+![Lex without Lambda](https://github.com/HilaryWillis/Amazon_Lex_Bot/blob/main/Screen%20Record/Amazon%20Lex%20-%20no%20lambda.mp4)
+
 
 MIT License
 
